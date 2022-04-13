@@ -6,3 +6,9 @@ o objetivo do projeto era desenvlver um timer com botoes de iniciar , pausar e z
 o projeto encontra-se  hospedado no link abaixo :
 
 
+Tecnologias utilizadas 
+
+• HTML
+• CSS
+• Javascript 
+• Fontes do Google 
