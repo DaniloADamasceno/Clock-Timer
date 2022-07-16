@@ -1,12 +1,16 @@
 # Clock-Timer simples 
 
-Projeto foi criado para colocar em pratica os conhecimentos adquiridos em HTML, CSS e Javascript.
-o objetivo do projeto era desenvolver um timer com botões de iniciar , pausar e zerar .
 
-o projeto encontra-se hospedado no link abaixo:
+![Temporizador](https://user-images.githubusercontent.com/71226047/179369530-cb829f3d-8b83-4f66-9cbb-47bfce1864de.jpg)
 
 
-https://clocktimer101.netlify.app/
+Projeto foi criado para colocar em prática os conhecimentos adquiridos em HTML, CSS e Javascript.
+O objetivo do projeto era desenvolver um temporizador com botões de iniciar, pausar e zerar.
+
+O projeto encontra-se hospedado no link abaixo:
+
+
+[Temporizador](https://clocktimer101.netlify.app/)
 
 Tecnologias utilizadas 
 
@@ -21,4 +25,9 @@ Tecnologias utilizadas
 •	     [![Netlify Status](https://api.netlify.com/api/v1/badges/4fcccf50-a6d6-452b-839e-6852f4824112/deploy-status)](https://app.netlify.com/sites/clocktimer101/deploys)
 
 
+______________________________________________________________________________________________________________________________________________________________
+# Atualizações de Projeto
+
+*Atualização* 1.01 :
+> Adicionada imagem ao Readme e correções gramaticais.
 
